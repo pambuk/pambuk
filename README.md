@@ -1,4 +1,4 @@
-![pambuk-space-shooter](https://github.com/user-attachments/assets/12a260b9-74d1-4cef-ac28-a7f4daf69b71)
+![pambuk-space-shooter](game.gif)
 
 
 <!--
